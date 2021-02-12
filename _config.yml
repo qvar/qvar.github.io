@@ -4,7 +4,7 @@
 # Site settings
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "qvar.github.io"
+title: qvar
 email:
 description: >- # this means to ignore newlines until "baseurl:"
    Excuse me but we never talked about programming!
