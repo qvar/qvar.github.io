@@ -36,6 +36,9 @@ title: qvar.github.io
 email:
 description: >- # this means to ignore newlines until "baseurl:"
    Excuse me but we never talked about programming!
+baseurl:
+url: "https://qvar.github.io"
+
 twitter_username: raushankumar_
 github_username: qvar
 minimal_mistakes_skin: default
