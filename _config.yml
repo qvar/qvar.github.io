@@ -94,11 +94,7 @@ defaults:
       layout: single
       author_profile: true
 
-<<<<<<< HEAD
 category_archive:
-=======
- category_archive:
->>>>>>> d709945ecd35600bdd156ee4587e6e4db568b716
   type: liquid
   path: /categories/
 tag_archive:
